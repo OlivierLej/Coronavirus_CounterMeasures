@@ -15,4 +15,4 @@ The dataset goes from 23 January 2020, when China announced the first lockdown m
 
 I have received lots of questions about the dataset. I’d like to make it open for collaboration, as I’m not sure I’ll be able to keep up on my own with all the government announcements around the world.
 
-Olivier Lejeune - Paris, 21 January 2020
+Olivier Lejeune - Paris, 21 March 2020
