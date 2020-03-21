@@ -14,3 +14,6 @@ The dataset goes from 23 January 2020, when China announced the first lockdown m
 4. Full lockdown. Government requires citizens to shelter in place. In some cases, citizens are allowed to come out to buy essential items. In other cases, the curfew is more strict.
 
 I have received lots of questions about the dataset. I’d like to make it open for collaboration, as I’m not sure I’ll be able to keep up on my own with all the government announcements around the world.
+
+Olivier Lejeune
+Paris, 21 January 2020
