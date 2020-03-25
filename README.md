@@ -1,9 +1,9 @@
 # Coronavirus_CounterMeasures
 A dataset describing coronavirus containment measures taken by governments worldwide
 
---- Update from 24 March 2020 ---
+--- Update from 25 March 2020 ---
 
-The dataset goes from 23 January 2020, when China announced the first lockdown measures in Wuhan, to 27 March 2020. Here's the methodology:
+The dataset goes from 23 January 2020, when China announced the first lockdown measures in Wuhan, to 28 March 2020. Here's the methodology:
 
 0. No or few containment measures in place.
 
