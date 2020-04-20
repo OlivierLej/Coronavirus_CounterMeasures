@@ -1,7 +1,7 @@
 # Coronavirus_CounterMeasures
 A dataset describing coronavirus containment measures taken by governments worldwide
 
---- Update from 19 April 2020 ---
+--- Update from 20 April 2020 ---
 
 The dataset goes from 23 January 2020, when China announced the first lockdown measures in Wuhan, to 4 May 2020. An interactive map with the same data is available at https://coronavirusmeasures.herokuapp.com/
 
