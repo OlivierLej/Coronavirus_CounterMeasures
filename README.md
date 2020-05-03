@@ -1,9 +1,9 @@
 # Coronavirus_CounterMeasures
 A dataset describing coronavirus containment measures taken by governments worldwide
 
---- Update from 20 April 2020 ---
+--- Update from 3 May 2020 ---
 
-The dataset goes from 23 January 2020, when China announced the first lockdown measures in Wuhan, to 4 May 2020. An interactive map with the same data is available at https://coronavirusmeasures.herokuapp.com/
+The dataset goes from 23 January 2020, when China announced the first lockdown measures in Wuhan, to 7 June 2020. An interactive map with the same data is available at https://coronavirusmeasures.herokuapp.com/
 
 Here's the methodology:
 
@@ -21,6 +21,7 @@ Here's the methodology:
 
 6. Harsh lockdown. Citizens are not allowed to come out of their home, even to buy essential items.
 
-I have received lots of questions about the dataset. I’d like to make it open for collaboration, as I’m not sure I’ll be able to keep up on my own with all the government announcements around the world.
+Note on the easing of restrictions:
+The latest version of the dataset includes announcements by governments to ease coronavirus restrictions as of 3 May 2020. It reflects the highest applicable figure for each country. This means that, if a country reopens schools but keeps restaurants shut, it will still be classified as a '3', not a '1'. For a finer analysis of detailed measures against the coronavirus, I encourage you to check other datasets on this page: https://lukaslehner.github.io/covid19policytrackers/
 
 Olivier Lejeune, Paris
