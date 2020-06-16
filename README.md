@@ -22,6 +22,6 @@ Here's the methodology:
 6. Harsh lockdown. Citizens are not allowed to come out of their home, even to buy essential items.
 
 Note on the easing of restrictions:
-The latest version of the dataset includes announcements by governments to ease coronavirus restrictions as of 3 May 2020. It reflects the highest applicable figure for each country. This means that, if a country reopens schools but keeps restaurants shut, it will still be classified as a '3', not a '1'. For a finer analysis of detailed measures against the coronavirus, I encourage you to check other datasets on this page: https://lukaslehner.github.io/covid19policytrackers/
+The latest version of the dataset includes announcements by governments to ease coronavirus restrictions. It reflects the highest applicable figure for each country. This means that, if a country reopens schools but keeps restaurants shut, it will still be classified as a '3', not a '1'. For a finer analysis of detailed measures against the coronavirus, I encourage you to check other datasets on this page: https://lukaslehner.github.io/covid19policytrackers/
 
 Olivier Lejeune, Paris
